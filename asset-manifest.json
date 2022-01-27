@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BOX-OFFICE/static/css/main.e622dbdd.chunk.css",
+    "main.js": "/BOX-OFFICE/static/js/main.3c1abf87.chunk.js",
+    "main.js.map": "/BOX-OFFICE/static/js/main.3c1abf87.chunk.js.map",
+    "runtime-main.js": "/BOX-OFFICE/static/js/runtime-main.75323e3f.js",
+    "runtime-main.js.map": "/BOX-OFFICE/static/js/runtime-main.75323e3f.js.map",
+    "static/js/2.8b3dca47.chunk.js": "/BOX-OFFICE/static/js/2.8b3dca47.chunk.js",
+    "static/js/2.8b3dca47.chunk.js.map": "/BOX-OFFICE/static/js/2.8b3dca47.chunk.js.map",
+    "index.html": "/BOX-OFFICE/index.html",
+    "static/css/main.e622dbdd.chunk.css.map": "/BOX-OFFICE/static/css/main.e622dbdd.chunk.css.map",
+    "static/js/2.8b3dca47.chunk.js.LICENSE.txt": "/BOX-OFFICE/static/js/2.8b3dca47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75323e3f.js",
+    "static/js/2.8b3dca47.chunk.js",
+    "static/css/main.e622dbdd.chunk.css",
+    "static/js/main.3c1abf87.chunk.js"
+  ]
+}
